@@ -1,2 +1,6 @@
-# Glide-Game-iGraphics-
-It is a game, developed with iGraphics.
+# Glide-Game
+
+### It is a game, developed with iGraphics framework.
+### Language:
+* C
+* C++
